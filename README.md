@@ -42,3 +42,8 @@ Sources:
 US Bureau of Labor Statistics: We collected data about number of schools and hospitals in different Texas cities and MSA: https://stats.bls.gov/eag/eag.tx.htm
 Texas A&M Real Estate Center: We collected Housing Dataset about different Texas cities and MSA: https://www.recenter.tamu.edu/data/housing-activity/
 FBI Crime Data Explorer: We collected data from Police departments of different Texas cities and MSA: https://crime-data-explorer.app.cloud.gov/pages/explorer/crime/crime-trend
+
+
+
+The python files were used to scrape the data from websites and txt files.
+The housing_Consolidated is the main dataset considered for the project.

@@ -46,4 +46,4 @@ FBI Crime Data Explorer: We collected data from Police departments of different 
 
 
 The python files were used to scrape the data from websites and txt files.
-The housing_Consolidated is the main dataset considered for the project.
+The housing_final is the main dataset considered for the project.
